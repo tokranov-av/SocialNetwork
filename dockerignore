@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+social_network/__pycache__/
+social_network/*/__pycache__/
+social_network/*/*/__pycache__/
+social_network/*/*/*/__pycache__/
+.venv/
+venv/
+
+# Local PostgreSQL data
+db/
